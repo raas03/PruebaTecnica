@@ -1,0 +1,164 @@
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\appsettings.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.staticwebassets.endpoints.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.exe
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.deps.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.runtimeconfig.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaInfrastucture.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaModel.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaShared.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaInfrastucture.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaModel.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaShared.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.csproj.AssemblyReference.cache
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\scopedcss\bundle\PruebaTecnica.styles.css
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets\msbuild.PruebaTecnica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets\msbuild.PruebaTecnica.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets\msbuild.build.PruebaTecnica.props
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PruebaTecnica.props
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PruebaTecnica.props
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTe.5DFE3EDD.Up2Date
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\refint\PruebaTecnica.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.genruntimeconfig.cache
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\ref\PruebaTecnica.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaService.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaService.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\appsettings.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.staticwebassets.endpoints.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.exe
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.deps.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.runtimeconfig.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnica.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaInfrastucture.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaModel.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaService.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaShared.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaInfrastucture.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaService.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaModel.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\bin\Debug\net8.0\PruebaTecnicaShared.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.csproj.AssemblyReference.cache
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.AssemblyInfo.cs
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\scopedcss\bundle\PruebaTecnica.styles.css
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets\msbuild.PruebaTecnica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets\msbuild.PruebaTecnica.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets\msbuild.build.PruebaTecnica.props
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PruebaTecnica.props
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PruebaTecnica.props
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTe.5DFE3EDD.Up2Date
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\refint\PruebaTecnica.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\PruebaTecnica.genruntimeconfig.cache
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnica\obj\Debug\net8.0\ref\PruebaTecnica.dll

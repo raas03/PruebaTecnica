@@ -1,0 +1,22 @@
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\bin\Debug\net8.0\PruebaTecnicaShared.deps.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\bin\Debug\net8.0\PruebaTecnicaShared.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\bin\Debug\net8.0\PruebaTecnicaShared.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\refint\PruebaTecnicaShared.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\ref\PruebaTecnicaShared.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\bin\Debug\net8.0\PruebaTecnicaShared.deps.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\bin\Debug\net8.0\PruebaTecnicaShared.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\bin\Debug\net8.0\PruebaTecnicaShared.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.AssemblyInfoInputs.cache
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.AssemblyInfo.cs
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.csproj.CoreCompileInputs.cache
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\refint\PruebaTecnicaShared.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\PruebaTecnicaShared.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaShared\obj\Debug\net8.0\ref\PruebaTecnicaShared.dll

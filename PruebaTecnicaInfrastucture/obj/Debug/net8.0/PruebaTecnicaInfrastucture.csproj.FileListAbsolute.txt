@@ -1,0 +1,34 @@
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaInfrastucture.deps.json
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaInfrastucture.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaInfrastucture.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaModel.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaShared.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaShared.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaModel.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.csproj.AssemblyReference.cache
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTe.D68A63E0.Up2Date
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\refint\PruebaTecnicaInfrastucture.dll
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.pdb
+C:\Users\ronal\OneDrive\Desktop\UAPA\UAPA - TRIMESTRE 4\PROGRAMACION II\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\ref\PruebaTecnicaInfrastucture.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaInfrastucture.deps.json
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaInfrastucture.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaInfrastucture.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaModel.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaShared.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaShared.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\bin\Debug\net8.0\PruebaTecnicaModel.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.csproj.AssemblyReference.cache
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.AssemblyInfoInputs.cache
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.AssemblyInfo.cs
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.csproj.CoreCompileInputs.cache
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTe.D68A63E0.Up2Date
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\refint\PruebaTecnicaInfrastucture.dll
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\PruebaTecnicaInfrastucture.pdb
+C:\Users\ronal\WorkSpace\PruebaTecnica\PruebaTecnicaInfrastucture\obj\Debug\net8.0\ref\PruebaTecnicaInfrastucture.dll
